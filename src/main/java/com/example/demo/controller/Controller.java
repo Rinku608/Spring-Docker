@@ -9,7 +9,7 @@ public class Controller {
 	
 @RequestMapping("/")
 	   public String hello() {
-	        return "Hello World, Spring Boot!";
+	        return "Hello World, Spring Boot123!";
 	    }
 
 @RequestMapping("/welcome")
